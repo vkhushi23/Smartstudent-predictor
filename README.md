@@ -1,6 +1,7 @@
 # Smartstudent-predictor
 Predictor student performance
 
+Initialize project with README.md including basic description<br>
 
 This project predicts student performance using machine learning techniques.
 
