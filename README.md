@@ -30,3 +30,6 @@ Smartstudent-predictor/
 │── requirements.txt
 │── README.md  
 <br>
+
+Set up project structure with folders and main script <br>
+
