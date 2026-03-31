@@ -21,3 +21,12 @@ The model takes input data like study hours, attendance, etc., and predicts perf
 ## 📌 Future Improvements
 - Add UI
 - Improve model accuracy
+
+Smartstudent-predictor/
+│── data/
+│── model/
+│── src/
+│── main.py
+│── requirements.txt
+│── README.md  
+<br>
