@@ -32,4 +32,4 @@ Smartstudent-predictor/
 <br>
 
 Set up project structure with folders and main script <br>
-
+Add dataset for student performance prediction. <br>
