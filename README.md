@@ -33,3 +33,14 @@ Smartstudent-predictor/
 
 Set up project structure with folders and main script <br>
 Add dataset for student performance prediction. <br>
+
+git commit -m "feat: initialize project with README.md
+
+git commit -m "docs(readme): initialize README with project description and tech stack
+
+- Student performance prediction using ML
+- Features and technologies section added"
+
+- Add project title: Smartstudent-predictor
+- Describe ML-based student performance prediction
+- List key features and technologies (Python, Pandas, NumPy, Scikit-learn)"
