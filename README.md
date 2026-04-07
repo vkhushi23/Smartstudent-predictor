@@ -44,9 +44,12 @@ git commit -m "docs(readme): initialize README with project description and tech
 - Add project title: Smartstudent-predictor
 - Describe ML-based student performance prediction
 - List key features and technologies (Python, Pandas, NumPy, Scikit-learn)"
-- 
+<br>
 
-Add project title: Smartstudent-predictor
-- Describe ML-based student performance prediction
-- List key features and technologies (Python, Pandas, NumPy, Scikit-learn)"
-- <br>
+git commit -m "feat: initialize student performance prediction project
+
+- Set up project structure (data/, model/, src/)
+- Create main.py, requirements.txt and README.md
+- Add project description, features, and tech stack"
+  <br>
+
