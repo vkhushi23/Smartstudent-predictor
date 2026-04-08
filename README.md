@@ -52,13 +52,13 @@ git commit -m "feat: initialize student performance prediction project
 - Create main.py, requirements.txt and README.md
 - Add project description, features, and tech stack"
   <br>
-  Initialized the project - Created the Smartstudent-predictor repository.
-Created the basic project structure:
-data/ folder
-model/ folder
-src/ folder
-main.py
-requirements.txt
-README.md
-i wnat compeleted my project
+  Initialized the project - Created the Smartstudent-predictor repository.<br>
+Created the basic project structure:<br>
+data/ folder<br>
+model/ folder<br>
+src/ folder<br>
+main.py<br>
+requirements.txt<br>
+README.md<br>
+i wnat compeleted my project<br>
 
