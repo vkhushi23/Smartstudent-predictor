@@ -70,3 +70,5 @@ Initialize Smart Student Predictor project with README
 - Included features (student performance prediction, data analysis, ML model)<br>
 - Listed technologies used (Python, Pandas, NumPy, Scikit-learn)<br>
 - Explained basic working of the model<br>
+
+Initial commit: Added README for Smart Student Predictor project
